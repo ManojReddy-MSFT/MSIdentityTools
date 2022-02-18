@@ -1,4 +1,4 @@
-# Microsoft Identity Tools PowerShell Module Manoj
+# Microsoft Identity Tools PowerShell Module - Ashray/Manoj
 
 [![PSGallery Version](https://img.shields.io/powershellgallery/v/MSIdentityTools)](https://www.powershellgallery.com/packages/MSIdentityTools) 
 [![PSGallery Downloads](https://img.shields.io/powershellgallery/dt/MSIdentityTools)](https://www.powershellgallery.com/packages/MSIdentityTools)
