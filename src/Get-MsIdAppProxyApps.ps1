@@ -1,0 +1,1 @@
+Get-MgServicePrincipal -Filter "Tags/any(s:s eq 'WindowsAzureActiveDirectoryOnPremApp')"
