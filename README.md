@@ -1,16 +1,20 @@
 # Microsoft Identity Tools PowerShell Module - Ashray/Manoj
 
-[![PSGallery Version](https://img.shields.io/powershellgallery/v/MSIdentityTools)](https://www.powershellgallery.com/packages/MSIdentityTools) 
-[![PSGallery Downloads](https://img.shields.io/powershellgallery/dt/MSIdentityTools)](https://www.powershellgallery.com/packages/MSIdentityTools)
+[![PSGallery Version](https://img.shields.io/powershellgallery/v/MSIdentityTools.svg?style=flat&logo=powershell&label=PSGallery%20Version)](https://www.powershellgallery.com/packages/MSIdentityTools) 
+[![PSGallery Downloads](https://img.shields.io/powershellgallery/dt/MSIdentityTools.svg?style=flat&logo=powershell&label=PSGallery%20Downloads)](https://www.powershellgallery.com/packages/MSIdentityTools)
+[![PSGallery Platform](https://img.shields.io/powershellgallery/p/MSIdentityTools.svg?style=flat&logo=powershell&label=PSGallery%20Platform)](https://www.powershellgallery.com/packages/MSIdentityTools)
 
-The Microsoft Identity Tools PowerShell module provides various tools for performing enhanced Identity administration activities.
+The Microsoft Identity Tools PowerShell module provides various tools for performing enhanced Identity administration activities. It is intended to address more complex business scenarios that can't be met solely with the use of MS Graph PowerShell SDK module.
 
+## What is contained in the MSIdentityTools module?
+A collection of cmdlets that use the MS Graph SDK PowerShell module to simplify common tasks for administrators of Azure AD tenants.
+
+You can find a description of each cmdlet and it's usage documentation in the repo [wiki](https://github.com/AzureAD/MSIdentityTools/wiki)
+  
 ## How do I install the module?
  
-The module can be found here:
- 
-  https://www.powershellgallery.com/packages/MSIdentityTools
-  
+The module can be found and installed from the PowerShell gallery at [PowerShell Gallery: MSIdentity Tools](https://www.powershellgallery.com/packages/MSIdentityTools) or can be downloaded from the releases page on this repo.
+
 ## Support
 For issues, questions, and feature requests please review the guidance on the [Support](https://github.com/AzureAD/MSIdentityTools/blob/main/SUPPORT.md) page for this project for filing issues.
 
